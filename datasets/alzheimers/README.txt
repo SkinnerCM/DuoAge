@@ -1,0 +1,14 @@
+Series GSE153712		Query DataSets for GSE153712
+Status	Public on Nov 23, 2020
+Title	Meta-analysis of genome-wide DNA methylation identifies shared associations across neurodegenerative disorders
+Organism	Homo sapiens
+Experiment type	Methylation profiling by array
+Summary	People with neurodegenerative disorders have diverse clinical syndromes, genetic heterogeneity, and distinct brain pathological changes, but studies report overlap between these features. DNA methylation (DNAm) is a widely studied chemical modification to DNA, and increasing evidence suggests that DNAm alterations play an important role in neurodegenerative disorders. In this study we aimed to identify shared blood DNAm differences between 471-1,522 controls and people with Alzheimer’s disease (N = 161), amyotrophic lateral sclerosis (N = 3,032) and Parkinson’s disease (N = 1,132). We used a mixed-linear model method (MOMENT) that has been shown to account for the effect of (un)known confounders, to test for association of each DNAm site with each disorder. A fixed-effects meta-analysis of Alzheimer’s disease, amyotrophic lateral sclerosis, and Parkinson’s disease results identified 12 differentially methylated positions passing a genome-wide significant threshold. Predicted immune cell-type proportions were disrupted across all neurodegenerative disorders, as well as schizophrenia and rheumatoid arthritis. Protein inflammatory markers were correlated with profile sum-scores derived from disease-associated immune cell-type proportions in a healthy ageing cohort. In contrast, they were not correlated with MOMENT DNAm-derived profile sum-scores, calculated using effect sizes of the 12 differentially methylated positions as weights. We have identified shared differentially methylated positions in whole blood between neurodegenerative disorders that point to shared pathogenic mechanisms. These shared differentially methylated positions may reflect causes or consequences of disease, but they are unlikely to reflect cell-type proportion differences.
+ 	
+Overall design	161 Alzheimer's disease patients, 471 healthy individuals and 94 mild cognitive impairment patients, from the AIBL cohort (https://aibl.csiro.au/). All the other accession number from publicly available data used in this study have been properly cited in the accompanying manuscript.
+
+For data access questions please contact Prof. Simon Laws at: s.laws@ecu.edu.au
+ 	
+Contributor(s)	Nabais MF, Laws SM, Wray NR, McRae AF, Henders AK, Wallace L
+Citation(s)	
+Nabais MF, Laws SM, Lin T, Vallerga CL et al. Meta-analysis of genome-wide DNA methylation identifies shared associations across neurodegenerative disorders. Genome Biol 2021 Mar 26;22(1):90. PMID: 33771206
